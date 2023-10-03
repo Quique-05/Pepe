@@ -1,5 +1,1 @@
-#%%%
-
-print('Hola mundo =)')
-
-print('Hello world')
+print('Hola mundo')
